@@ -1,0 +1,190 @@
+#maindiv{
+    padding: 80px;
+}
+img{
+    position: relative;
+    bottom: 10px;
+    left: 280px;
+}
+#big1{
+    color: brown;
+    font-size: 65px;
+}
+input{
+    border-style: solid;
+    padding: 15px 30px;
+    border-radius: 4px;
+}
+input:hover{
+    background-color: lightgrey;
+    border-color: black;
+}
+a{
+    text-decoration: none;
+}
+#sign{
+    background-color: dodgerblue;
+    font-size: 15px;
+    padding: 20px 200px;
+    color: white;
+    border-radius: 25px;
+}
+#sign:hover{
+    background-color: darkblue;
+}
+#hr2{
+    position: relative;
+    bottom: 36px;
+    left: 205px;
+}
+div{
+    position: relative;
+    bottom: 57px;
+    left: 180px;
+}
+#google{
+    border-style: solid;
+    border-color: lightgray;
+    font-size: 15px;
+    padding: 12px 150px;
+    color: black;
+    border-radius: 25px;
+}
+#new{
+    border-style: solid;
+    font-size: 18px;
+    padding: 12px 120px;
+    color: black;
+    border-radius: 25px;
+}
+#new:hover{
+    background-color: lightgray;
+}
+#div5{
+    font-size: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#big5{
+    position: relative;
+    right: 415px;
+    top: 23px;
+    color: gray;
+}
+#big5:hover{
+    color: black;
+}
+#link1{
+    color: black;
+}
+#line1{
+    font-size: 30px;
+}
+#sign2{
+    font-size: 20px;
+    border-style: solid;
+    border-color: blue;
+    padding: 13px 23px;
+    border-radius: 30px;
+} 
+#sign2:hover{
+    background-color: lightblue;
+}
+#join{
+    font-size: 20px;
+    padding: 13px 23px;
+    border-radius: 30px;
+}
+#join:hover{
+    background-color: lightgray;
+}
+#div1{
+    position: relative;
+    left: 1px;
+    right: 10px;
+    bottom: 60px;
+}
+#big2{
+    font-size: 40px;
+}
+#div2{
+    position: relative;
+    left: 400px;
+    bottom: 227px;
+}
+#buttons1{
+    font-size: 15px;
+    padding: 13px 23px;
+    border-radius: 25px;
+}
+#button1{
+    font-size: 15px;
+    padding: 13px 23px;
+    border-radius: 25px;
+    border-color: dodgerblue;
+}
+#button1:hover{
+    background-color: rgb(112, 160, 211);
+}
+#big3{
+    position: relative;
+    top: 10px;
+}
+p1::first-line{
+    right: 30px;
+}
+#big4{
+    font-size: 40px;
+    position: relative;
+    bottom: 125px;
+}
+#buttons2{
+    font-size: 15px;
+    padding: 13px 23px;
+    border-radius: 25px;
+}
+#div3{
+    position: relative;
+    left: 400px;
+    bottom: 200px;
+}
+#b2{
+    position: relative;
+    left: 105px;
+    bottom: 210px;
+    font-size: 22px;
+    color: gray;
+}
+#div4{
+    background-color: rgba(179, 117, 117, 0.322);
+    width: 1890px;
+    height: 300px;
+    position: relative;
+    left: -269px;
+}
+#b3{
+   position: relative;
+   left: 270px;
+   font-size: 35px;
+   color: brown;
+}
+#button2{
+        font-size: 15px;
+        padding: 13px 23px;
+        border-radius: 25px;
+        border-color: dodgerblue;
+        position: relative;
+        left: 600px;
+        bottom: 40px;
+        background-color: rgba(179, 117, 117, 0.322);
+    }
+#button2:hover{
+    background-color: rgb(112, 160, 211);
+}
+@media screen and (max-width: 500px){
+    big{
+        font-size: 30px;
+    }
+    body{
+        padding: 5px;
+    }
+}
